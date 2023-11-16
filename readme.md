@@ -2,6 +2,7 @@
 
 ## Configuration
 | Hardware | Modello | 
+| :---: | :---: |
 | CPU | AMD Athlon X4 750K | 
 | MotherBoard | ASRock FM2A85X Extreme4 |
 | Chipset | AMD A85X (Hudson-D4) | 
@@ -14,8 +15,11 @@
 
 ## System Detail
 - Version: macOS High Sierra 10.13.6 (17G10021)
+
 ![Screenshot](/screenshot/info.png?raw=true) 
+
 - Monitor:
+
 ![Screenshot](/screenshot/monitor.png?raw=true) 
 
 ## Hardware Support
@@ -28,6 +32,7 @@
 - GPU Hardware Acceleration (don't know how its possible, but that's what VDAChecker says)
 - CPU not recognized
 - USB Map (not properly mapped 😝)
+- so many other things...😖
 
 ## Credits
  - [Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/)
