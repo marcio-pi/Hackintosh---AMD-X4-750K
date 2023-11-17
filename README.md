@@ -1,13 +1,13 @@
 # Hackintosh - AMD Athlon X4 750K
 
 ## Configuration
-| Hardware | Modello | 
+| Hardware | Model | 
 | :---: | :---: |
 | CPU | AMD Athlon X4 750K | 
 | MotherBoard | ASRock FM2A85X Extreme4 |
 | Chipset | AMD A85X (Hudson-D4) | 
 | GPU | AMD Radeon HD 7750 | 
-| RAM | DDR3 da 2 GB 667 MHz×2 | 
+| RAM | 2GB DDR3 running at 667 MHz `×2` | 
 | Storage | Crucial MX500 250GB | 
 | Audio | Realtek ALC892 | 
 | Network | Realtek RTL8111E | 
@@ -34,7 +34,15 @@
 - USB Map (not properly mapped 😝)
 - so many other things...😖
 
+## Working on...
+- USB Map
+- GPU Hardware Acceleration
+- Replacing `VoodooHDA.kext` with `AppleALC.kext`
+- Increasing RAM frequency to default `1600MHz`
+- Trying to enable `X86PlatformPlugin` and fix <q>Power Management</q>
+- fixing some boot warnings...
+
 ## Credits
- - [Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/)
- - [Dortania Guide](https://dortania.github.io/OpenCore-Post-Install/)
- - [Inspirating chinese guy](https://github.com/KHwang9883/Hackintosh-AMD-X4-760K/tree/master)
+ - [Dortania Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
+ - [Dortania Post-Install Guide](https://dortania.github.io/OpenCore-Post-Install/)
+ - [inspirating chinese guy](https://github.com/KHwang9883/Hackintosh-AMD-X4-760K/tree/master)
