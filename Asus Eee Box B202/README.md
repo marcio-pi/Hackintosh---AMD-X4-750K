@@ -7,7 +7,7 @@
 | MotherBoard | Asus P5LD2EB-DHS |
 | Chipset | 945GSE + ICH7M | 
 | System Bus Speed | 533 MHz |
-| GPU | Intel Mobile 945GSE Express Integrated Graphics Chipset> ~Intel GMA 950~ | 
+| GPU | Intel Mobile 945GSE Express Integrated Graphics Chipset ~Intel GMA 950~ | 
 | RAM | 512MB DDR2 SO-DIMM `×2` | 
 | Storage | Crucial MX500 250GB | 
 | Audio | HDA Intel ALC888 | 
@@ -15,7 +15,7 @@
 | Wi-Fi | AzureWave AW-NE766 (Ralink RT2790) |
 | Monitor | Asus VG248QE 1920x1080 | 
 
-### Not Working
+### Status
 - Can't install 😔;
 
 ## Credits
