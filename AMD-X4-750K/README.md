@@ -16,11 +16,11 @@
 ## System Detail
 - Version: macOS High Sierra 10.13.6 (17G10021)
 
-![Screenshot](/screenshot/info.png?raw=true) 
+![Screenshot](./screenshot/info.png?raw=true) 
 
 - Monitor:
 
-![Screenshot](/screenshot/monitor.png?raw=true) 
+![Screenshot](./screenshot/monitor.png?raw=true) 
 
 ## Hardware Support
 ### Working
