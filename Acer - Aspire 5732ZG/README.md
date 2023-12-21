@@ -1,19 +1,6 @@
+# FAILED 
+
 # Hackintosh | Acer | Aspire 5732ZG
-
-## Configuration
-| Hardware | Model | 
-| :---: | :---: |
-| CPU | - | 
-| MotherBoard | - |
-| Chipset | -| 
-| GPU | I- | 
-| RAM | 4GB | 
-| Storage | Crucial MX500 250GB | 
-| Audio |  | 
-| Ethernet |  | 
-| Wi-Fi |  |
-| Display |  | 
-
 
 ## PC info
 - SNID: `00216991016`
