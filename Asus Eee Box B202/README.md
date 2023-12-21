@@ -1,5 +1,8 @@
 # Hackintosh - Asus | Eee Box B202
 
+## Status
+- Can't install 😔;
+
 ## Configuration
 | Hardware | Model | 
 | :---: | :---: |
@@ -14,9 +17,6 @@
 | Ethernet | Realtek RTL8111 | 
 | Wi-Fi | AzureWave AW-NE766 (Ralink RT2790) |
 | Monitor | Asus VG248QE 1920x1080 | 
-
-### Status
-- Can't install 😔;
 
 ## Credits
  - [Dortania Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
